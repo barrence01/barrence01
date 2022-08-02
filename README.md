@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo William
-- 👀 Estou procurando cursos de banco de dados
-- 🌱 Estou aprendendo atualmente desenvolvimento Android
+- 👀 Estou procurando me certificar em aws e oracle
+- 🌱 Estou aprendendo atualmente desenvolvimento Android e Cobol Mainframe
 - 📫 Se quiser me contatar barrence.santos@hotmail.com
 
 <!---
