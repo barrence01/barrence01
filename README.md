@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo William
 - 👀 Estou procurando me certificar em aws e oracle
-- 🌱 Estou aprendendo atualmente desenvolvimento Android e Cobol Mainframe
+- 🌱 Estou aprendendo atualmente desenvolvimento Android, .NET e Cobol Mainframe
 - 📫 Se quiser me contatar barrence.santos@hotmail.com
 
 <!---
